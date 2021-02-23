@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/realMcDondals/static/css/main.d701a085.chunk.css",
-    "main.js": "/realMcDondals/static/js/main.388e7144.chunk.js",
-    "main.js.map": "/realMcDondals/static/js/main.388e7144.chunk.js.map",
+    "main.js": "/realMcDondals/static/js/main.ea48fb09.chunk.js",
+    "main.js.map": "/realMcDondals/static/js/main.ea48fb09.chunk.js.map",
     "runtime-main.js": "/realMcDondals/static/js/runtime-main.387901d1.js",
     "runtime-main.js.map": "/realMcDondals/static/js/runtime-main.387901d1.js.map",
     "static/js/2.7ddf9f70.chunk.js": "/realMcDondals/static/js/2.7ddf9f70.chunk.js",
@@ -78,6 +78,6 @@
     "static/js/runtime-main.387901d1.js",
     "static/js/2.7ddf9f70.chunk.js",
     "static/css/main.d701a085.chunk.css",
-    "static/js/main.388e7144.chunk.js"
+    "static/js/main.ea48fb09.chunk.js"
   ]
 }
